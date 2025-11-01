@@ -1,6 +1,6 @@
 🕒 Digital Clock (Python + Tkinter)
 
-A simple and elegant digital clock built using Python and Tkinter.
+A digital clock built using Python and Tkinter.
 It displays the current time, day, and date, updating every second in real time.
 
     FEATURES
