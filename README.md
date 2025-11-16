@@ -13,8 +13,8 @@ Updates every second automatically
 
 Clean and minimal GUI design
 
-[Clock Demo] (https://raw.githubusercontent.com/Victor-Basil/Digital-clock/main/images/�PNG
-}
+[Clock Demo] (�PNG
+)
 
     Technologies Used
 
