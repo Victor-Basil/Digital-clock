@@ -1,4 +1,4 @@
-🕒 Digital Clock (Python + Tkinter)
+ Digital Clock (Python + Tkinter)
 
 A digital clock built using Python and Tkinter.
 It displays the current time, day, and date, updating every second in real time.
@@ -13,8 +13,8 @@ Updates every second automatically
 
 Clean and minimal GUI design
 
-[Clock Demo] (�PNG
-)
+[Clock Demo] (PNG
+)
 
     Technologies Used
 
@@ -50,7 +50,7 @@ How to update labels dynamically using window.after()
 
 How to format and display live time using strftime()
 
-      Future Improvem
+      Future Improvements
 
 Add light/dark theme switch
 
