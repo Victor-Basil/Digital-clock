@@ -3,18 +3,6 @@
 A digital clock built using Python and Tkinter.
 It displays the current time, day, and date, updating every second in real time.
 
-    FEATURES
-
-Displays current time in 12-hour format
-
-Shows the current day and date
-
-Updates every second automatically
-
-Clean and minimal GUI design
-
-[Clock Demo] (PNG
-)
 
     Technologies Used
 
